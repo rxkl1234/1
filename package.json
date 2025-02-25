@@ -4,7 +4,7 @@
   "description": "A simple Discord bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js & node bot.js"
   },
   "keywords": [],
   "author": "",
